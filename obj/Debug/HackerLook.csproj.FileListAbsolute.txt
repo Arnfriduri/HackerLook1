@@ -1,0 +1,7 @@
+C:\CSharp\HackerLook\HackerLook\bin\Debug\HackerLook.exe.config
+C:\CSharp\HackerLook\HackerLook\bin\Debug\HackerLook.exe
+C:\CSharp\HackerLook\HackerLook\bin\Debug\HackerLook.pdb
+C:\CSharp\HackerLook\HackerLook\obj\Debug\HackerLook.csproj.CoreCompileInputs.cache
+C:\CSharp\HackerLook\HackerLook\obj\Debug\HackerLook.exe
+C:\CSharp\HackerLook\HackerLook\obj\Debug\HackerLook.pdb
+C:\CSharp\HackerLook\HackerLook\obj\Debug\HackerLook.csprojResolveAssemblyReference.cache
